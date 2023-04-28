@@ -4,6 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/cocomhwa?style=flat-square)   
 📫 How to reach me:
+<a href="https://discordapp.com/users/391199768010817547" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 <a href="https://velog.io/@cocomhwa" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>   
 ![cocomhwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocomhwa&count_private=true&show_icons=true&theme=gruvbox)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocomhwa&layout=compact&theme=gruvbox)   
