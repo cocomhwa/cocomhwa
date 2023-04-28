@@ -2,7 +2,8 @@
 
 # cocomhwa   
    
-<a href="https://velog.io/@cocomhwa" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>   
+<a href="https://velog.io/@cocomhwa" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+![followers](https://img.shields.io/github/followers/cocomhwa?style=social)   
 ![cocomhwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocomhwa&count_private=true&show_icons=true&theme=gruvbox)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocomhwa&layout=compact&theme=gruvbox)   
 
