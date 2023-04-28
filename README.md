@@ -1,4 +1,4 @@
-# cocomhwa   
+<div align=center><h1>cocomhwa</h1></div>   
 <a href="https://velog.io/@cocomhwa" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocomhwa&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocomhwa&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)    
