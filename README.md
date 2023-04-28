@@ -1,8 +1,9 @@
 <div align="center">   
 
 # cocomhwa   
-   
+
 ![GitHub followers](https://img.shields.io/github/followers/cocomhwa?style=flat-square)   
+📫 How to reach me:
 <a href="https://velog.io/@cocomhwa" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>   
 ![cocomhwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocomhwa&count_private=true&show_icons=true&theme=gruvbox)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocomhwa&layout=compact&theme=gruvbox)   
@@ -16,3 +17,18 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>   
 
 </div>
+
+<!--
+**cocomhwa/cocomhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
