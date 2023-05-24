@@ -15,7 +15,7 @@
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/></a>   
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>   
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat-square&logo=C&logoColor=white"/></a>   
 </div>
 
